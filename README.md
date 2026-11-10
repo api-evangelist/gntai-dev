@@ -1,4 +1,4 @@
-# gntai-dev
+# gnt.ai
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,142 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-gntai-dev is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://gntai.dev/
+gnt.ai provides a platform that connects engineering and business teams to enforce guardrails on AI agent actions. It offers rule-based reviews, decision approvals, and policy enforcement before agents execute code, ensuring compliance and safety across the organization. The service integrates with existing workflows, supports customizable policies, and delivers audit logs for governance.
+
+**Areas:** AI · Governance · Compliance · Security · Automation
+
+## gnt.ai on APIs.io
+
+Everything profiled for gnt.ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/gntai-dev/](https://apis.io/providers/gntai-dev/)** — or go straight to one of the APIs or properties below.
+
+### APIs (19)
+
+- [gnt.ai Billing API](https://apis.io/apis/gntai-dev/gntai-dev-billing-api/) — The billing API from gnt.ai — 7 operation(s) for billing.
+- [gnt.ai Brain API](https://apis.io/apis/gntai-dev/gntai-dev-brain-api/) — The brain API from gnt.ai — 2 operation(s) for brain.
+- [gnt.ai Gaps API](https://apis.io/apis/gntai-dev/gntai-dev-gaps-api/) — The gaps API from gnt.ai — 1 operation(s) for gaps.
+- [gnt.ai GitHub API](https://apis.io/apis/gntai-dev/gntai-dev-github-api/) — The github API from gnt.ai — 3 operation(s) for github.
+- [gnt.ai Github Webhook API](https://apis.io/apis/gntai-dev/gntai-dev-github-webhook-api/) — The github-webhook API from gnt.ai — 1 operation(s) for github-webhook.
+- [gnt.ai Healthz API](https://apis.io/apis/gntai-dev/gntai-dev-healthz-api/) — The Healthz API from gnt.ai — 1 operation(s) for healthz.
+- [gnt.ai Intercom API](https://apis.io/apis/gntai-dev/gntai-dev-intercom-api/) — The intercom API from gnt.ai — 2 operation(s) for intercom.
+- [gnt.ai Linear API](https://apis.io/apis/gntai-dev/gntai-dev-linear-api/) — The linear API from gnt.ai — 4 operation(s) for linear.
+- [gnt.ai Notion API](https://apis.io/apis/gntai-dev/gntai-dev-notion-api/) — The notion API from gnt.ai — 4 operation(s) for notion.
+- [gnt.ai Org Admin API](https://apis.io/apis/gntai-dev/gntai-dev-org-admin-api/) — The org-admin API from gnt.ai — 2 operation(s) for org-admin.
+- [gnt.ai Platform Admin API](https://apis.io/apis/gntai-dev/gntai-dev-platform-admin-api/) — The platform-admin API from gnt.ai — 3 operation(s) for platform-admin.
+- [gnt.ai Roi API](https://apis.io/apis/gntai-dev/gntai-dev-roi-api/) — The roi API from gnt.ai — 1 operation(s) for roi.
+- [gnt.ai Rules API](https://apis.io/apis/gntai-dev/gntai-dev-rules-api/) — The rules API from gnt.ai — 9 operation(s) for rules.
+- [gnt.ai Settings API](https://apis.io/apis/gntai-dev/gntai-dev-settings-api/) — The settings API from gnt.ai — 11 operation(s) for settings.
+- [gnt.ai Skill Packs API](https://apis.io/apis/gntai-dev/gntai-dev-skill-packs-api/) — The skill-packs API from gnt.ai — 1 operation(s) for skill-packs.
+- [gnt.ai Slack API](https://apis.io/apis/gntai-dev/gntai-dev-slack-api/) — The slack API from gnt.ai — 3 operation(s) for slack.
+- [gnt.ai Transcribe API](https://apis.io/apis/gntai-dev/gntai-dev-transcribe-api/) — The transcribe API from gnt.ai — 1 operation(s) for transcribe.
+- [gnt.ai Webhooks API](https://apis.io/apis/gntai-dev/gntai-dev-webhooks-api/) — The webhooks API from gnt.ai — 1 operation(s) for webhooks.
+- [gnt.ai Zendesk API](https://apis.io/apis/gntai-dev/gntai-dev-zendesk-api/) — The zendesk API from gnt.ai — 2 operation(s) for zendesk.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [gnt.ai Agentic Access](https://apis.io/agentic-access/gntai-dev/gntai-dev-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [BatchProposeRequest](https://apis.io/schemas/gntai-dev/gntai-dev-batch-propose-request/)
+- [BillingStatus](https://apis.io/schemas/gntai-dev/gntai-dev-billing-status/)
+- [ConnectZendeskRequest](https://apis.io/schemas/gntai-dev/gntai-dev-connect-zendesk-request/)
+- [CreateRuleRequest](https://apis.io/schemas/gntai-dev/gntai-dev-create-rule-request/)
+- [InvoiceInfo](https://apis.io/schemas/gntai-dev/gntai-dev-invoice-info/)
+- [PaymentMethodInfo](https://apis.io/schemas/gntai-dev/gntai-dev-payment-method-info/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Gntai Dev Context](https://apis.io/jsonld/gntai-dev/gntai-dev-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [gnt.ai API Rules](https://apis.io/rules/gntai-dev/gntai-dev-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [gnt.ai Authentication](https://apis.io/security/gntai-dev/gntai-dev-authentication/)
+- [gnt.ai Domain Security](https://apis.io/security/gntai-dev/gntai-dev-domain-security/)
+- [gnt.ai Vulnerability Disclosure](https://apis.io/security/gntai-dev/gntai-dev-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://gntai.dev/)
+- [Documentation](https://docs.gntai.dev/)
+- [Getting started](https://docs.gntai.dev/docs/quickstart)
+- [Changelog](https://gntai.dev/changelog)
+- [Security](https://github.com/gnt-ai/gnt/security/policy)
+- [Terms of service](https://gntai.dev/terms)
+- [Privacy policy](https://gntai.dev/privacy)
+- [Status](https://status.gntai.dev/)
+
+## API Evangelist rating
+
+**Kin Score 52.1** — developing · rubric 0.27.0 · scored 2026-11-10
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 55.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 42.1 |
+| Developer ergonomics | 39.8 |
+| Access clarity | 34.2 |
+
+**Agent readiness 34.2** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/gntai-dev/](https://apis.io/providers/gntai-dev/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for gnt.ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/gntai-dev/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
